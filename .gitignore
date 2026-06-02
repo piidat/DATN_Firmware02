@@ -1,0 +1,20 @@
+# Các file build của STM32CubeIDE / GCC
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# Các file build của Keil C (MDK-ARM)
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.htm
+*.dep
+*.build_log.htm
+Listings/
+Objects/
